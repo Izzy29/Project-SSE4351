@@ -1,3 +1,4 @@
+//This is the bank class that all operation happen in this class
 package Bank;
 import java.io.Serializable;
 import javax.swing.DefaultListModel;
